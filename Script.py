@@ -17,7 +17,7 @@ class script(object):
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
-<b>- ᴄɪɴᴇᴍᴀᴛᴏ ɪꜱ ᴀ ꜱᴇᴄʀᴇᴛ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
+<b>- ᴄɪɴᴇᴍᴀᴛᴏ ɪꜱ ᴀ ꜱᴇᴄʀᴇᴛ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.""" 
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
