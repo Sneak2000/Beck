@@ -72,3 +72,8 @@
 ```
 <b> 😇CREATOR » [SATHAN](https://t.me/Sathan_of_telegram)</b>
 
+## Deploy
+You can deploy this bot anywhere.
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/Beck&branch=main&name=cinemato-beck)
